@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "tp4056")(type "Legacy")(uri "${KIPRJMOD}/libs/tp4056.lib")(options "")(descr ""))
+  (lib (name "SC7A20TR")(type "KiCad")(uri "${KIPRJMOD}/libs/SC7A20TR.kicad_sym")(options "")(descr ""))
+)
