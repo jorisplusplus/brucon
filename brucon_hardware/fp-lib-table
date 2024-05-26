@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "NH-B1212RGBA")(type "KiCad")(uri "${KIPRJMOD}/libs/NH-B1212RGBA.pretty")(options "")(descr ""))
   (lib (name "DIODE_SMAF")(type "KiCad")(uri "${KIPRJMOD}/libs/DIODE_SMAF.pretty")(options "")(descr ""))
+  (lib (name "Button")(type "KiCad")(uri "${KIPRJMOD}/libs/Button.pretty")(options "")(descr ""))
 )
