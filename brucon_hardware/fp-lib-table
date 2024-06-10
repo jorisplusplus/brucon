@@ -1,6 +1,6 @@
 (fp_lib_table
   (version 7)
   (lib (name "NH-B1212RGBA")(type "KiCad")(uri "${KIPRJMOD}/libs/NH-B1212RGBA.pretty")(options "")(descr ""))
-  (lib (name "DIODE_SMAF")(type "KiCad")(uri "${KIPRJMOD}/libs/DIODE_SMAF.pretty")(options "")(descr ""))
   (lib (name "Button")(type "KiCad")(uri "${KIPRJMOD}/libs/Button.pretty")(options "")(descr ""))
+  (lib (name "BruCon_Footprints")(type "KiCad")(uri "${KIPRJMOD}/libs/BruCon_Footprints.pretty")(options "")(descr ""))
 )
