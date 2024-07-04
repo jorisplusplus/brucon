@@ -11035,7 +11035,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheet.lcsc.com/szlcsc/Shenzhen-Mingwei-Elec-SM16106SC_C121618.pdf"
 			(at 991.87 228.6 0)
 			(effects
 				(font
@@ -14537,7 +14537,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheet.lcsc.com/szlcsc/Shenzhen-Mingwei-Elec-SM16106SC_C121618.pdf"
 			(at 993.14 269.24 0)
 			(effects
 				(font

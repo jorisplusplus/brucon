@@ -3803,7 +3803,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x03"
+		(property "Value" "WTB01W03BB"
 			(at 121.92 60.96 0)
 			(effects
 				(font
@@ -3821,7 +3821,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2207191430_BZCN-WTB01W03BB_C3036372.pdf"
 			(at 118.745 59.69 0)
 			(effects
 				(font
@@ -4311,7 +4311,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "3901a0d5-2c89-473e-9540-51006b8096b3")
 		(property "Reference" "R206"
@@ -4704,7 +4704,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2303131430_MSKSEMI-SS54F_C5359893.pdf"
 			(at 97.79 100.965 0)
 			(effects
 				(font
@@ -4764,7 +4764,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_SPDT"
+		(property "Value" "AA04A02010000018A"
 			(at 45.72 100.965 0)
 			(effects
 				(font
@@ -4781,7 +4781,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2207121430_BZCN-AA04A02010000018A_C3036445.pdf"
 			(at 45.72 99.695 0)
 			(effects
 				(font
@@ -4834,7 +4834,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "50a8b289-f965-4c6f-9e1e-f18a950e507e")
 		(property "Reference" "R205"
 			(at 92.71 71.12 0)
@@ -5204,7 +5204,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "Red LED"
 			(at 53.6575 59.69 0)
 			(effects
 				(font
@@ -5221,7 +5221,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Foshan-NationStar-Optoelectronics-NCD0805R1_C84256.pdf"
 			(at 52.07 64.77 0)
 			(effects
 				(font
@@ -5430,7 +5430,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2312291747_YONGYUTAI-TP4056_C20199357.pdf"
 			(at 80.645 63.5 0)
 			(effects
 				(font
@@ -5737,7 +5737,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2403281214_XR-XR0630-4R7M_C5307631.pdf"
 			(at 82.55 100.965 0)
 			(effects
 				(font
@@ -5795,7 +5795,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "a46d6251-defa-4bc7-8c18-92762a95fa6b")
 		(property "Reference" "R211"
@@ -6018,7 +6018,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "ab420db7-d633-405c-8171-187c42a9fa9d")
 		(property "Reference" "R207"
@@ -6310,7 +6310,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "Red LED"
 			(at 62.5475 72.39 0)
 			(effects
 				(font
@@ -6327,7 +6327,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Foshan-NationStar-Optoelectronics-NCD0805R1_C84256.pdf"
 			(at 60.96 67.31 0)
 			(effects
 				(font

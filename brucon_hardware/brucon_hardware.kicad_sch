@@ -6754,7 +6754,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SW_MEC_5E"
+		(property "Value" "B3FS-1010P"
 			(at 177.8 45.72 90)
 			(effects
 				(font
@@ -7123,7 +7123,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "1k"
 			(at 30.48 43.18 0)
 			(effects
 				(font
@@ -7151,6 +7151,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 28.575 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C21190"
 			(at 28.575 41.91 0)
 			(effects
 				(font
@@ -7271,7 +7280,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SW_MEC_5E"
+		(property "Value" "B3FS-1010P"
 			(at 220.98 73.025 90)
 			(effects
 				(font
@@ -7350,7 +7359,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SW_MEC_5E"
+		(property "Value" "B3FS-1010P"
 			(at 250.19 73.66 90)
 			(effects
 				(font
@@ -7417,7 +7426,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "4556fa63-c018-427a-b230-be3e9bf64127")
 		(property "Reference" "TP101"
@@ -7484,7 +7493,7 @@
 		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "4c228103-822d-48ec-a726-f8ef4af351b8")
 		(property "Reference" "H2"
@@ -7777,7 +7786,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2403271435_Hangzhou-Silan-Microelectronics-SC7A20TR_C5126709.pdf"
 			(at 173.99 142.24 0)
 			(effects
 				(font
@@ -7868,7 +7877,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SW_MEC_5E"
+		(property "Value" "B3FS-1010P"
 			(at 191.77 73.025 90)
 			(effects
 				(font
@@ -7935,7 +7944,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "5af57f66-07b9-4d68-894a-5c9b11dce86a")
 		(property "Reference" "TP104"
@@ -9451,7 +9460,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SW_MEC_5E"
+		(property "Value" "B3FS-1010P"
 			(at 208.28 45.72 90)
 			(effects
 				(font
@@ -9977,7 +9986,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "USB_C_Receptacle_USB2.0_14P"
+		(property "Value" "USB-TYPE-C-018"
 			(at 127.635 19.685 0)
 			(effects
 				(font
@@ -9995,7 +10004,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2201121330_DEALON-USB-TYPE-C-018_C2927038.pdf"
 			(at 134.62 38.735 0)
 			(effects
 				(font
@@ -10161,7 +10170,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SW_MEC_5E"
+		(property "Value" "B3FS-1010P"
 			(at 237.49 46.355 90)
 			(effects
 				(font
@@ -10294,7 +10303,7 @@
 		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "ed93b938-b427-463b-a456-dc74e9b925bf")
 		(property "Reference" "H1"
@@ -10343,7 +10352,7 @@
 			)
 		)
 		(instances
-			(project ""
+			(project "brucon_hardware"
 				(path "/c7d57f87-d402-454a-9407-398e29f51491"
 					(reference "H1")
 					(unit 1)
@@ -10437,7 +10446,7 @@
 		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "f55d419b-111e-48d6-8d13-e0ae2d5aec42")
 		(property "Reference" "TP102"
@@ -10514,7 +10523,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "AudioJack4"
+		(property "Value" "PJ-320D"
 			(at 125.095 105.41 90)
 			(effects
 				(font
@@ -10532,7 +10541,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2406051353_HanElectricity-PJ-320D_C22459515.pdf"
 			(at 133.985 101.6 0)
 			(effects
 				(font
@@ -10542,6 +10551,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 133.985 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C22459515"
 			(at 133.985 101.6 0)
 			(effects
 				(font
