@@ -1,4 +1,4 @@
-23702556323578301
+23704281579283505
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -390,6 +390,13 @@ tactile push button, 6x6mm e.g. PTS645xx series, height=9.5mm
 tact sw push 6mm smd
 0
 4
+2
+Button
+SW_SPST
+Coto Technologies SPST Reed Switch CT05-XXXX-G1
+Coto Reed SPST Switch
+0
+2
 2
 Button_Switch_Keyboard
 SW_Cherry_MX_1.00u_PCB
