@@ -3612,7 +3612,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_1810151710_INJOINIC-IP5305_C181686.pdf"
 			(at 96.52 68.58 0)
 			(effects
 				(font
@@ -3667,7 +3667,7 @@
 			(uuid "ffa0fc01-cef0-4a7d-93f0-e9dece8a6284")
 		)
 		(instances
-			(project ""
+			(project "brucon_hardware"
 				(path "/c7d57f87-d402-454a-9407-398e29f51491/ccaf17dc-cf4f-4544-8bb8-0d800add2a3f"
 					(reference "U1")
 					(unit 1)
@@ -4028,7 +4028,7 @@
 			(uuid "b83baa18-f13f-45fc-ab41-5564832373e3")
 		)
 		(instances
-			(project ""
+			(project "brucon_hardware"
 				(path "/c7d57f87-d402-454a-9407-398e29f51491/ccaf17dc-cf4f-4544-8bb8-0d800add2a3f"
 					(reference "Q1")
 					(unit 1)
@@ -4451,7 +4451,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2309011029_Ceaiya-CR5030-2R2M_C7588710.pdf"
 			(at 113.03 69.85 0)
 			(effects
 				(font
@@ -4948,7 +4948,7 @@
 			(uuid "b15526ab-a09d-41e0-911b-0ed0eece8a81")
 		)
 		(instances
-			(project ""
+			(project "brucon_hardware"
 				(path "/c7d57f87-d402-454a-9407-398e29f51491/ccaf17dc-cf4f-4544-8bb8-0d800add2a3f"
 					(reference "C1")
 					(unit 1)

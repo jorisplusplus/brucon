@@ -5085,16 +5085,6 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 80.01) (xy 147.32 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6f46d4e5-b9f6-4462-9f07-56591f12dda3")
-	)
-	(wire
-		(pts
 			(xy 121.285 39.37) (xy 123.825 39.37)
 		)
 		(stroke
@@ -6390,17 +6380,6 @@
 		)
 		(uuid "161f1c3f-c592-4a92-ace0-949de59accee")
 	)
-	(label "ACCEL_INT"
-		(at 144.78 80.01 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "16b4ea9c-ea83-4459-8b47-695f52802e67")
-	)
 	(label "SW_B"
 		(at 97.155 81.28 0)
 		(fields_autoplaced yes)
@@ -6911,7 +6890,7 @@
 			(uuid "3a8e0c14-b1ed-40c3-a011-ef5bde2ad75b")
 		)
 		(instances
-			(project ""
+			(project "brucon_hardware"
 				(path "/c7d57f87-d402-454a-9407-398e29f51491"
 					(reference "SW1")
 					(unit 1)
@@ -7017,7 +6996,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ESP32-S2-MINI-1"
+		(property "Value" "ESP32-S2-MINI-2-N4"
 			(at 64.4241 46.355 0)
 			(effects
 				(font
@@ -7026,7 +7005,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Espressif:ESP32-S2-MINI-1"
+		(property "Footprint" "PCM_Espressif:ESP32-S2-MINI-2"
 			(at 62.23 142.24 0)
 			(effects
 				(font
@@ -7035,7 +7014,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.espressif.com/sites/default/files/documentation/esp32-s2-mini-1_esp32-s2-mini-1u_datasheet_en.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2208151830_Espressif-Systems-ESP32-S2-MINI-2-N4_C3013906.pdf"
 			(at 64.77 144.78 0)
 			(effects
 				(font
@@ -10532,7 +10511,7 @@
 			(uuid "091d15d9-6a64-42d7-bbeb-b4d11040ae86")
 		)
 		(instances
-			(project ""
+			(project "brucon_hardware"
 				(path "/c7d57f87-d402-454a-9407-398e29f51491"
 					(reference "Q2")
 					(unit 1)
