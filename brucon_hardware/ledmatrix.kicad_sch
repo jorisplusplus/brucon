@@ -13320,7 +13320,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "74HCT245"
+		(property "Value" "74HCT245PW"
 			(at 315.8841 433.07 0)
 			(effects
 				(font
@@ -13338,7 +13338,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74HC245"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Nexperia-74HCT245PW-118_C5980.pdf"
 			(at 313.69 450.85 0)
 			(effects
 				(font
@@ -13356,7 +13356,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7494911"
+		(property "LCSC" "C5980"
 			(at 313.69 450.85 0)
 			(effects
 				(font

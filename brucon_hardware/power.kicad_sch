@@ -3290,7 +3290,7 @@
 				)
 			)
 		)
-		(property "Value" "0"
+		(property "Value" "200"
 			(at 83.82 78.105 90)
 			(effects
 				(font
@@ -3325,7 +3325,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" " C17168"
+		(property "LCSC" "C25087"
 			(at 83.82 74.93 0)
 			(effects
 				(font
@@ -3595,7 +3595,7 @@
 				)
 			)
 		)
-		(property "Value" "IP5305"
+		(property "Value" "IP5305T"
 			(at 99.06 63.5 0)
 			(effects
 				(font
@@ -3612,7 +3612,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_1810151710_INJOINIC-IP5305_C181686.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2311011131_INJOINIC-IP5305T_C2982924.pdf"
 			(at 96.52 68.58 0)
 			(effects
 				(font
@@ -3630,7 +3630,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C181686"
+		(property "LCSC" "C2982924"
 			(at 99.06 69.85 0)
 			(effects
 				(font
@@ -4597,7 +4597,7 @@
 				)
 			)
 		)
-		(property "Value" "0"
+		(property "Value" "200"
 			(at 76.2 66.675 90)
 			(effects
 				(font
@@ -4632,7 +4632,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" " C17168"
+		(property "LCSC" "C25087"
 			(at 76.2 69.85 0)
 			(effects
 				(font
