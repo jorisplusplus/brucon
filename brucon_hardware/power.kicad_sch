@@ -2332,6 +2332,16 @@
 	)
 	(wire
 		(pts
+			(xy 109.22 80.01) (xy 119.38 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "43bbba02-5f24-49c6-9229-aec95cb5248b")
+	)
+	(wire
+		(pts
 			(xy 60.96 85.09) (xy 52.07 85.09)
 		)
 		(stroke
@@ -2592,16 +2602,6 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 80.01) (xy 88.9 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "97aedfe2-c770-407d-a868-74bf319decbc")
-	)
-	(wire
-		(pts
 			(xy 52.705 118.745) (xy 62.23 118.745)
 		)
 		(stroke
@@ -2719,6 +2719,16 @@
 			(type default)
 		)
 		(uuid "b96da989-a4d8-438f-b742-0d4e9761f6bf")
+	)
+	(wire
+		(pts
+			(xy 88.9 80.01) (xy 101.6 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b98450ff-5cd5-4e98-b0df-b8689961c679")
 	)
 	(wire
 		(pts
@@ -3946,6 +3956,82 @@
 			(project "brucon_hardware"
 				(path "/c7d57f87-d402-454a-9407-398e29f51491/ccaf17dc-cf4f-4544-8bb8-0d800add2a3f"
 					(reference "#PWR0214")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 105.41 80.01 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "742a34fe-c6da-46fc-a534-55e53149f56b")
+		(property "Reference" "R7"
+			(at 105.41 82.042 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1k"
+			(at 105.41 77.978 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 105.41 81.788 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 105.41 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 105.41 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" " C11702"
+			(at 105.41 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "f7dc1c76-166a-45e4-9c70-cc8b633419f3")
+		)
+		(pin "1"
+			(uuid "f75318b9-46a3-42bd-b81d-ff714fcf1076")
+		)
+		(instances
+			(project "brucon_hardware"
+				(path "/c7d57f87-d402-454a-9407-398e29f51491/ccaf17dc-cf4f-4544-8bb8-0d800add2a3f"
+					(reference "R7")
 					(unit 1)
 				)
 			)
